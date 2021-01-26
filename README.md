@@ -8,7 +8,14 @@
   
   Each branch has a `README.md` spelling out the aim of the exercise
 
-
+ ## About exercise
+  Build a webpage that has all content centered both vertically and horizontally, and contains the following:
+   
+   A text that says `Welome {user}`
+   
+   An input
+    
+   A text that displays whatever the user inputs in the input tag simultaenously
 
 # Getting a functioning copy of this repo
 
