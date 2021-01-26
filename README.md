@@ -11,11 +11,11 @@
  ## About exercise
   Build a webpage that has all content centered both vertically and horizontally, and contains the following:
    
-   A text that says `Welome {user}`
+   * A text that says *Welome {user}*, if not username is provided shows *Guest*
    
-   An input
+   * An input
     
-   A text that displays whatever the user inputs in the input tag simultaenously
+   * A text that displays whatever the user enters in the input tag simultaenously
 
 # Getting a functioning copy of this repo
 
