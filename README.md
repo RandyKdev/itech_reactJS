@@ -16,6 +16,10 @@
    * An input
     
    * A text that displays whatever the user enters in the input tag simultaenously
+  
+  ## End Product
+
+   ![first image](https://drive.google.com/file/d/1Oz0GrQzy2PuX8HSsL56Rtv0U7wHSJcxn/view?usp=sharing)
 
 # Getting a functioning copy of this repo
 
