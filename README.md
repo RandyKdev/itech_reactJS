@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Details
+
+  This repo contains exercises on `ReactJS` given during the `itech` training program to understand and use react efficiently.
+  
+ ## Structure
+ 
+  Branches are named with a number at the start denoting the exercise number
+  
+  Each branch has a `README.md` spelling out the aim of the exercise
+
+
+
+# Getting a functioning copy of this repo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
