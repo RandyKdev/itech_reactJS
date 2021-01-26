@@ -11,7 +11,7 @@
  ## About exercise
   Build a webpage that has all content centered both vertically and horizontally, and contains the following:
    
-   * A text that says *Welome {user}*, if not username is provided shows *Guest*
+   * A text that says *Welome {user}*, if no username is provided shows *Guest*
    
    * An input
     
