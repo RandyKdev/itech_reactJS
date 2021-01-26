@@ -7,8 +7,8 @@ class App extends Component {
     this.state = { text: '', name: '' };
   }
   componentDidMount() {
-    let name = prompt("Please enter your name",);
-    this.setState({ name });
+    let input = prompt("Please enter your name",);
+    this.setState({ name: input ? input : "Guest" });
   }
   onChange(event) {
     this.setState({ text: event.target.value });
